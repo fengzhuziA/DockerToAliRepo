@@ -10,5 +10,5 @@
 #cr2.fit2cloud.com/1panel/maxkb
 
 wbuchwalter/mochi
-
+docker.io/wbuchwalter/mochi
 
