@@ -11,5 +11,5 @@
 
 wbuchwalter/mochi
 docker.io/wbuchwalter/mochi
-docker.io/pkuyy/opensoraplan
+docker.io/cospui/opensora
 
